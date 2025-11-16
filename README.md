@@ -1,4 +1,3 @@
-<!-- Header Banner -->
 <h1 align="center">👋 Hi, I'm Hayden Anand</h1>
 <h3 align="center">CSE Undergraduate | Aspiring Developer | AI & Web Development Enthusiast</h3>
 
@@ -6,105 +5,110 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science Engineering student at Karunya Institute of Technology and Sciences**, passionate about **AI, Web Development, and Problem-Solving**.  
-I love building modern user interfaces, experimenting with AI tools, and contributing to impactful projects that make technology more accessible.
+I'm **Hayden Anand**, a passionate **Computer Science Engineering student** at **Karunya Institute of Technology and Sciences**.  
+I love exploring **AI**, **Web Development**, **Cloud**, and solving real-life problems using technology.
 
-Currently exploring:
-- 🧠 Artificial Intelligence & Cloud AI
-- 🌐 Modern Web Development
-- 📊 Data Analytics
-- 🐍 Python Programming
-- 💡 Creative Digital Projects & Prompt Engineering
-
----
-
-## 🏆 **Certifications & Achievements**
-
-### 🎯 **AI, Data & Cloud Certifications**
-- **Oracle Cloud Infrastructure 2025 – AI Foundations Associate**  
-- **AI Appreciate Badge – AI For All (Intel + CBSE)**
-- **Microsoft Certified Data Analyst – Simplilearn**
-- **Python for Beginners – OpenCV**
-- **Gemini Art Forge – Google Student Ambassador Program**
-- **Digital Campus 2.0 HackSprint – AI for Accessibility (Google Cloud + IIC)**  
-  - Built an AI-powered accessibility platform  
-  - Speech-to-Text, Translation, AI Summaries  
-  - Stack: *Google Cloud AI, NLP, Flask, React.js, Firebase*
-
-### 🎯 **Web & Software Certifications**
-- **IBM Web Development Fundamentals (IBM SkillsBuild)**
-- **Infosys Springboard – Programming in C**
-- **Cisco Networking Academy – HTML & CSS**
-- **Simplilearn – GitHub Basics**
-- **Simplilearn – Microsoft Excel**
+✨ I explore technology through:  
+- 🤖 Artificial Intelligence  
+- 🌐 Creative Web Development  
+- 📊 Data Analytics  
+- ⚡ Building UI-based projects  
+- 🧠 Prompt Engineering & Generative AI  
 
 ---
 
-## 🛠️ **Skills & Technologies**
+## 🏆 Certifications & Achievements
 
-### 💻 **Programming**
-- Python  
-- C  
-- HTML5  
-- CSS3  
-- JavaScript (Basics)
+### **🎓 AI & Data Certifications**
+- 🟠 **Oracle Cloud AI Foundations Associate – 2025**
+- 🔵 **AI For All – Intel & CBSE**
+- 🟢 **Microsoft Certified Data Analyst – Simplilearn**
+- 🟡 **Python for Beginners – OpenCV**
+- 🌈 **Gemini Art Forge – Google Student Ambassador Program**
+- ☁️ **Google Cloud + IIC HackSprint – AI for Accessibility Project**
 
-### 🧠 **AI & Cloud**
-- Generative AI  
+### **🖥️ Web & Programming Certifications**
+- IBM – **Web Development Fundamentals**
+- Infosys Springboard – **Programming in C**
+- Cisco – **HTML Essentials**
+- Cisco – **CSS Fundamentals**
+- Simplilearn – **GitHub Certification**
+- Simplilearn – **MS Excel Certification**
+
+---
+
+## 🧰 Tech Stack & Skills
+
+### 💻 Programming Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" height="50"/>
+</p>
+
+### 🤖 AI & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=googlecloud,github,idea" height="50"/>  
+</p>
+
+### 🛠 Tools & Software  
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase" height="50"/>
+</p>
+
+### 🎯 Other Skills  
+- Data Analytics  
 - Prompt Engineering  
-- Oracle Cloud AI  
-- Google Cloud AI  
-- NLP Fundamentals
-
-### 🖥️ **Web Development**
-- Front-End Development  
-- Responsive UI Design  
-- Git & GitHub  
-- Web Hosting Basics
-
-### 📊 **Data**
-- Excel  
-- Data Analytics Fundamentals  
-- Basic SQL
-
-### 🧩 **Soft Skills**
 - Leadership  
-- Communication  
 - Teamwork  
 - Public Speaking  
-- Creativity & Innovation
 
 ---
 
-## 📌 **Projects**
+## 📌 Featured Projects
 
-### 🍽️ **Restaurant-Web-UI (2025 – Present)**
-Modern, responsive restaurant landing page with:
+### 🍽️ **Restaurant-Web-UI**
+A modern, animated restaurant landing page featuring:
 - Rotating dish animation  
-- Dark theme UI  
-- Custom navbar + dropdown  
-- Vibrant visual design  
+- Custom dark theme  
+- Navigation bar with dropdown  
+- Animated footer  
 
 **Tech:** HTML, CSS, Font Awesome  
-**Focus:** Web Design, UI/UX
+➡️ *(Repo link coming soon)*  
 
 ---
 
-### 🔐 **Simple Login Form (First Web Development Project)**
-Your very first hands-on development project — a clean login form built purely with **HTML & CSS**.
+### 🍱 **Restaura-Website**
+- Vibrant food-themed homepage  
+- Smooth interactions & UI elements  
+- Eye-catching visual layout  
 
-Started your journey inspired by **Apna College YouTube** tutorials.
+**Tech:** HTML, CSS  
 
 ---
 
-## 🌐 **Connect With Me**
+### 🔐 **Simple Login Form (First Project!)**
+Your first milestone in web development:  
+- Clean HTML/CSS login form  
+- Foundation of front-end learning  
+- Inspired by Apna College  
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/hayden-anand"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://github.com/haydenanand"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://www.linkedin.com/in/hayden-anand">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+  <a href="https://github.com/haydenanand">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
 </p>
 
 ---
 
-## 🎉 **Fun Fact**
-I started as a **Bio-Maths student**, but my curiosity for tech led me into a journey of **AI, coding, and creativity** — and I’m just getting started.
+## ✨ Fun Fact  
+🌟 *I started as a Bio-Maths student, and now I’m building AI + Web projects that solve real-world problems.*  
+
+##  "Every line of code you write today becomes the skill you master tomorrow." ⭐
 
