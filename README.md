@@ -44,10 +44,7 @@ I love exploring **AI**, **Web Development**, **Cloud**, and solving real-life p
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js" height="50"/>
 </p>
 
-### 🤖 AI & Cloud  
-<p>
-  <img src="https://skillicons.dev/icons?i=googlecloud,github,idea" height="50"/>  
-</p>
+
 
 ### 🛠 Tools & Software  
 <p>
