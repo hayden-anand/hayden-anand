@@ -1,111 +1,74 @@
-<h1 align="center">👋 Hi, I'm Hayden Anand</h1>
-<h3 align="center">CSE Undergraduate | Aspiring Developer | AI & Web Development Enthusiast</h3>
+<!-- Animated Header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hayden%20Anand&fontSize=40&animation=fadeIn&fontAlignY=35)
+
+<!-- Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Bio-Maths+Graduate;Computer+Science+Engineer;Full-Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
+🎓 **Academic Journey**  
+I am a **Bio-Maths graduate from Kendriya Vidyalaya**, with a strong academic foundation in mathematics and sciences, shaped through 12 years of disciplined schooling and active participation in co-curricular activities. This journey helped me develop **analytical thinking, adaptability, teamwork, and problem-solving skills**.  
 
-I'm **Hayden Anand**, a passionate **Computer Science Engineering student** at **Karunya Institute of Technology and Sciences**.  
-I love exploring **AI**, **Web Development**, **Cloud**, and solving real-life problems using technology.
+📚 **Current Studies**  
+I am a **first-year B.Tech Computer Science Engineering student at Karunya University**, building a strong foundation in core computer science concepts. My academic focus includes:  
+- HTML, CSS, C, Java  
+- Data Structures & Design  
+- Computer Science Fundamentals  
 
-✨ I explore technology through:  
-- 🤖 Artificial Intelligence  
-- 🌐 Creative Web Development  
-- 📊 Data Analytics  
-- ⚡ Building UI-based projects  
-- 🧠 Prompt Engineering & Generative AI  
+These subjects are strengthening my **logical thinking and problem-solving abilities**.  
 
----
+💼 **Internship Experience**  
+Alongside academics, I am actively involved in a **full-stack development internship**, gaining practical exposure to:  
+- Web application development  
+- Real-world development workflows  
+- Translating theoretical concepts into working systems  
 
-## 🏆 Certifications & Achievements
-
-### **🎓 AI & Data Certifications**
-- 🟠 **Oracle Cloud AI Foundations Associate – 2025**
-- 🔵 **AI For All – Intel & CBSE**
-- 🟢 **Microsoft Certified Data Analyst – Simplilearn**
-- 🟡 **Python for Beginners – OpenCV**
-- 🌈 **Gemini Art Forge – Google Student Ambassador Program**
-- ☁️ **Google Cloud + IIC HackSprint – AI for Accessibility Project**
-
-### **🖥️ Web & Programming Certifications**
-- IBM – **Web Development Fundamentals**
-- Infosys Springboard – **Programming in C**
-- Cisco – **HTML Essentials**
-- Cisco – **CSS Fundamentals**
-- Simplilearn – **GitHub Certification**
-- Simplilearn – **MS Excel Certification**
+🌟 **Future Goals**  
+I am eager to grow as a developer, collaborate with like-minded professionals, and contribute meaningfully to **innovative and impactful projects**.  
 
 ---
 
-## 🧰 Tech Stack & Skills
-
-### 💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js" height="50"/>
-</p>
-
-
-
-### 🛠 Tools & Software  
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase" height="50"/>
-</p>
-
-### 🎯 Other Skills  
-- Data Analytics  
-- Prompt Engineering  
-- Leadership  
-- Teamwork  
-- Public Speaking  
+## 🌐 Connect With Me
+📧 Email: [haydenanand9@gmail.com](mailto:haydenanand9@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/hayden-anand](https://www.linkedin.com/in/hayden-anand)  
+💻 GitHub: [github.com/hayden-anand](https://github.com/hayden-anand)  
+🏅 Credly: [credly.com/users/a-hayden-anand](https://www.credly.com/users/a-hayden-anand)  
 
 ---
 
-## 📌 Featured Projects
-
-### 🍽️ **Restaurant-Web-UI**
-A modern, animated restaurant landing page featuring:
-- Rotating dish animation  
-- Custom dark theme  
-- Navigation bar with dropdown  
-- Animated footer  
-
-**Tech:** HTML, CSS, Font Awesome  
-➡️ *(Repo link coming soon)*  
+# 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,ts,html,css,php,python,bootstrap,nodejs,react,tailwind,vite,mysql,mongodb,docker,git,github)](https://skillicons.dev)
 
 ---
 
-### 🍱 **Restaura-Website**
-- Vibrant food-themed homepage  
-- Smooth interactions & UI elements  
-- Eye-catching visual layout  
-
-**Tech:** HTML, CSS  
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=hayden-anand&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=hayden-anand&theme=dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hayden-anand&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
-### 🔐 **Simple Login Form (First Project!)**
-Your first milestone in web development:  
-- Clean HTML/CSS login form  
-- Foundation of front-end learning  
-- Inspired by Apna College  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hayden-anand&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hayden-anand">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-  </a>
-  <a href="https://github.com/haydenanand">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  </a>
-</p>
+## 🐍 Contribution Graph Animations
+![Snake animation](https://github.com/hayden-anand/hayden-anand/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation dark](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)  
+![Snake eating contributions](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)  
 
 ---
 
-## ✨ Fun Fact  
-🌟 *I started as a Bio-Maths student, and now I’m building AI + Web projects that solve real-world problems.*  
+## 🔥 Profile Views & Stats
+![Profile views](https://komarev.com/ghpvc/?username=hayden-anand&color=brightgreen&style=for-the-badge)  
+![Followers](https://img.shields.io/github/followers/hayden-anand?style=for-the-badge&color=blue)  
+![Stars](https://img.shields.io/github/stars/hayden-anand?style=for-the-badge&color=yellow)  
 
-##  "Every line of code you write today becomes the skill you master tomorrow." ⭐
+---
 
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
